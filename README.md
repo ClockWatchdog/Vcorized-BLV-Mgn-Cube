@@ -27,6 +27,8 @@ GT2 Pulley for 9mm belts x 2
 
 M5 10mm x 30
 
+M5 20mm x 1
+
 M6 10mm x 4
 
 M5 45mm x 6
@@ -45,7 +47,7 @@ M3 20mm x 2
 
 M3 locking nut x 2
 
-M3 Square nut x 6
+M3 Square nut x 7
 
 ## Usefull Links
 
