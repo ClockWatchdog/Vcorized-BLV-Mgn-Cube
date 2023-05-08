@@ -4,7 +4,7 @@ The aim is to use as much of the hardware as possible that come with the BLV kit
 
 PS I will add the compatibility with 1515 extrusion and MGN7 for the gantry, due to the fact that some tests gave very good results with this combination, and it would be nice to have some other feedback for this one.
 
-BOM for the 2020 gantry version
+**BOM for the 2020 gantry version**
 
 F695 x 24
 
