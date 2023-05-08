@@ -4,7 +4,7 @@ The aim is to use as much of the hardware as possible that come with the BLV kit
 
 PS I will add the compatibility with 1515 extrusion and MGN7 for the gantry, due to the fact that some tests gave very good results with this combination, and it would be nice to have some other feedback for this one.
 
-**BOM for the 2020 gantry version**
+## BOM for the 2020 gantry version
 
 F695 x 24
 
@@ -39,4 +39,38 @@ M3 20mm x 2
 M3 locking nut x 2
 
 M3 Square nut x 6
+
+## Usefull Links
+
+F695 x 24
+
+https://s.click.aliexpress.com/e/_DB8h4ZL
+
+695 x 12
+
+https://s.click.aliexpress.com/e/_DCmZFo9
+
+Mini Precision Shim (5x8x1) x 29
+
+https://s.click.aliexpress.com/e/_DmhM8xX
+
+Allu Spacers 6mm (or use the Printed Spacers)
+
+https://s.click.aliexpress.com/e/_DnaqmRX
+
+9mm belts
+
+https://s.click.aliexpress.com/e/_DdU6w2N
+
+GT2 Pulley for 9mm belts x 2
+
+https://s.click.aliexpress.com/e/_DcRfHBj
+
+TBG-S Trianglelab
+
+https://s.click.aliexpress.com/e/_DdvCw3R
+
+EVA 3 Adapter for TBG-S
+
+https://www.printables.com/model/382883-eva3-adapter-for-tbg-s-trianglelab-extruder
  
