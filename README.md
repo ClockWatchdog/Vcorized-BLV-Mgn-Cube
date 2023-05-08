@@ -35,7 +35,7 @@ M5 45mm x 6
 
 M5 40mm x 4
 
-M5 locking nut x 10
+M5 locking nut x 11
 
 M3 35mm x 8
 
@@ -47,7 +47,7 @@ M3 20mm x 2
 
 M3 locking nut x 2
 
-M3 Square nut x 7
+M3 Square nut x 6
 
 ## Usefull Links
 
