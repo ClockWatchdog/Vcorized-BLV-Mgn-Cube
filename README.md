@@ -59,7 +59,7 @@ https://s.click.aliexpress.com/e/_DB8h4ZL
 
 695 x 12
 
-https://s.click.aliexpress.com/e/_DCmZFo9
+https://s.click.aliexpress.com/e/_DEBkCAp
 
 Mini Precision Shim (5x8x1) x 29
 
