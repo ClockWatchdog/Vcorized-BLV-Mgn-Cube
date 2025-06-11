@@ -13,6 +13,10 @@ You can obviously use the EVA carriage for Vcore.
 
 PS I will add the compatibility with 1515 extrusion and MGN7 for the gantry, due to the fact that some tests gave very good results with this combination, and it would be nice to have some other feedback for this one.
 
+EDIT: The 1515 version and other improvements has been released in Printables. All my mods and project will be released there (included the mk3s black phantom - duet3d based). So if you are interested in this mod you can check the improvements and the recent releases here: 
+https://www.printables.com/@Clock_Watchdog
+
+
 ## BOM for the 2020 gantry version
 
 F695 x 24
